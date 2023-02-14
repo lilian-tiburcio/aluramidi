@@ -2,7 +2,7 @@
 
 <h2>Descrição do Projeto</h2>
 
-<p>Alura Midi é um projeto desenvolvido durante o curso de Fomação JavaScript. </p>
+<p>Alura Midi é um projeto desenvolvido durante o curso da Fomação JavaScript. </p>
 
 <h2> 💻 Como utilizar</h2>
 
