@@ -1,3 +1,9 @@
-<h1> Alura Midi</h1>
+<h1 align="center">Alura Midi</h1>
 
-<div>Projeto feito na aula de Java Script, do curso Iniciante em Programação da Alura.</div>
+<h2>Descrição do Projeto</h2>
+
+<p>Alura Midi é um projeto desenvolvido durante o curso de Fomação JavaScript. </p>
+
+<h2> 💻 Como utilizar</h2>
+
+<p>Ao acessar o site do Alura Midi, para interagir com os sons das teclas, basta clicar na tecla que desej ouvir o som.</p>
